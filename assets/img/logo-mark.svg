@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 120" role="img" aria-label="Akya Mantar">
+  <!-- Geçici vektör logo. Orijinal logo dosyası gelince assets/img/logo-mark.svg ile değiştirin. -->
+  <!-- büyük mantar sapı -->
+  <path d="M46 52 C44 70 40 88 38 100 L72 100 C70 88 68 70 70 52 Z" fill="#fff" stroke="#8E2B2B" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- büyük mantar şapkası -->
+  <path d="M14 50 C14 22 38 6 62 6 C90 6 104 24 104 44 C104 52 98 56 88 56 L28 58 C18 58 14 56 14 50 Z" fill="#8E2B2B"/>
+  <path d="M20 54 C40 50 74 48 98 50 C96 58 90 60 82 60 L30 62 C24 62 20 60 20 54 Z" fill="#F2CE3A" stroke="#8E2B2B" stroke-width="2"/>
+  <!-- küçük mantar sapı -->
+  <path d="M90 80 C89 88 88 94 87 102 L104 102 C103 94 102 88 101 80 Z" fill="#fff" stroke="#8E2B2B" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- küçük mantar şapkası -->
+  <path d="M78 78 C78 64 88 56 98 56 C110 56 118 64 118 74 C118 79 114 82 108 82 L86 82 C80 82 78 81 78 78 Z" fill="#8E2B2B"/>
+  <path d="M82 80 C92 78 104 78 114 79 C112 84 108 85 104 85 L88 85 C84 85 82 83 82 80 Z" fill="#F2CE3A" stroke="#8E2B2B" stroke-width="1.6"/>
+  <!-- çimen -->
+  <path d="M10 112 C14 100 18 96 22 92 C22 98 24 102 26 104 C28 94 32 88 36 86 C35 94 36 100 40 104 L44 96 C46 100 48 104 50 106 C54 98 58 94 62 92 C62 98 64 102 66 104 C70 98 74 94 80 92 C78 98 80 102 82 104 C86 98 90 96 96 94 C94 100 96 104 100 106 C104 100 108 98 114 96 C112 102 114 106 118 108 C120 104 124 100 128 100 C126 106 126 110 128 114 Z" fill="#4CA14A"/>
+  <!-- tescil işareti -->
+  <circle cx="122" cy="10" r="6" fill="none" stroke="#8E2B2B" stroke-width="1.4"/>
+  <text x="122" y="13.2" font-family="Arial, sans-serif" font-size="8" font-weight="700" fill="#8E2B2B" text-anchor="middle">R</text>
+</svg>
