@@ -1,0 +1,10 @@
+{
+  "name": "akyamantar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node build.mjs && python3 -m http.server 8080 -d dist",
+    "deploy": "node build.mjs && touch dist/.nojekyll && git -C dist init -q -b gh-pages && git -C dist add -A && git -C dist commit -q -m deploy && git -C dist push -f -q https://github.com/mertcilli/akyamantar.git gh-pages && rm -rf dist/.git"
+  }
+}
